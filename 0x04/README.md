@@ -6,13 +6,13 @@ Phần bài tập này chủ yếu rèn luyện khả năng programing với soc
 
 From `Mates CTF 2019`
 
-`nc 125.235.240.166 11223`
+`nc 188.166.218.1 2018`
 
 # Bài 2
 
 From `Framgia CTF`
 
-`nc 188.166.218.1 2015`
+https://ctf.viblo.asia/puzzles/sudoku-master-fdskqqtapys
 
 Ví dụ đề bài là:
 
@@ -34,7 +34,7 @@ thì nhập câu trả lời là chuỗi như đáp án (thay `_` bằng số đ
 
 From `Framgia CTF`
 
-`nc 188.166.218.1 2016`
+https://ctf.viblo.asia/puzzles/are-your-hand-big-enough-55zdjhnb1gi
 
 # Bài 4
 
